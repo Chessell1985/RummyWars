@@ -1,0 +1,16 @@
+{
+  "name": "rummy-wars",
+  "version": "1.0.0",
+  "description": "Play Gin Rummy head to head with up to 4 players!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liam Chessell",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
